@@ -3,7 +3,7 @@
 /**
  * modulus - check the code for Holberton School students.
  *
- * Return: Always void.
+ * Return: Always double.
  * @c: is a variable double of structur complex.
  */
 double modulus(complex c)

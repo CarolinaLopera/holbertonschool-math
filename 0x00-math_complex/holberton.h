@@ -1,5 +1,6 @@
 #ifndef _HOLBERTON_H_
 #define _HOLBERTON_H_
+#define PI 3.14159265
 /**
  * struct Complex - is a struct that get two doubles.
  *
@@ -15,5 +16,6 @@ typedef struct Complex
 void display_complex_number(complex c);
 complex conjugate(complex c);
 double modulus(complex c);
+double argument(complex c);
 
 #endif
