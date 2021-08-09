@@ -10,3 +10,4 @@
 | substraction | This function subtracts two number. |
 | multiplication | This function multiply two complex numbers. |
 | division | This function divide two complex numbers. |
+| complex_from_mod_arg | This function update the real and the imaginary parts of a complex number given its modulus and arguments. |
