@@ -1,4 +1,4 @@
-## This is a project about math complex in C.
+## This is a project about complex numbers in C.
 
 | Function | Description |
 | ------ | ------ |
@@ -9,3 +9,4 @@
 | addition | This function sum two complex numbers. |
 | substraction | This function subtracts two number. |
 | multiplication | This function multiply two complex numbers. |
+| division | This function divide two complex numbers. |
