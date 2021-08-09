@@ -5,7 +5,7 @@
  * Return: Always void.
  * @c1: is a variable double to add.
  * @c2: is a variable double to add.
- * @c3: is a variable double that is the result of the sum.
+ * @c3: is the result of the sum.
  */
 void addition(complex c1, complex c2, complex *c3)
 {
