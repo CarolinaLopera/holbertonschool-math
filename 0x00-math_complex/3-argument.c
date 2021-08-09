@@ -1,7 +1,7 @@
 #include "holberton.h"
 #include <math.h>
 /**
- * argument - check the code for Holberton School students.
+ * argument - returns the argument of a given complex number.
  *
  * Return: Always double.
  * @c: is a variable double of structur complex.

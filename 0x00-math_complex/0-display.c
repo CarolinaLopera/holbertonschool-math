@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include "holberton.h"
 /**
- * display_complex_number - check the code for Holberton School students.
+ * display_complex_number - This function print a complex number.
  *
  * Return: Always void.
  * @c: is a variable double of structur complex.

@@ -1,7 +1,7 @@
 #include "holberton.h"
 #include <math.h>
 /**
- * modulus - check the code for Holberton School students.
+ * modulus - Returns the modulus of a given complex number.
  *
  * Return: Always double.
  * @c: is a variable double of structur complex.

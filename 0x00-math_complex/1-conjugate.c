@@ -1,6 +1,6 @@
 #include "holberton.h"
 /**
- * conjugate - check the code for Holberton School students.
+ * conjugate - This function conjugate a complex number.
  *
  * Return: Always void.
  * @c: is a variable double of structur complex.
